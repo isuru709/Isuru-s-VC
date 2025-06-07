@@ -6,7 +6,7 @@ Video Converter tool and High Compress tool. Mainly based on GPU
 
 *NVIDIA H264,NVIDIA HEVC,NVIDIA AV1* Only works for **NVIDIA GPU** at least make sure you have **RTX Card**.
 
-*AMD H264,AMD HEVC,AMD AV1* works for **AMD Processor OR GPU**.. Faster But **More Size.**.
+*AMD H264,AMD HEVC,AMD AV1* works for **AMD Processor OR GPU**.. Faster.
 
 *Intel H264,Intel HEVC,Intel AV1* Works for **Intel GPU**. But at least make sure you have **Ultra Processor series for Intel AV1 Code**.
  
